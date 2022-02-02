@@ -7,7 +7,10 @@ Clone the repo
 Enter the directory  
 `$ cd duck`  
 Build with gcc  
-`$ gcc -o duck duck.c`  
+`$ gcc -o duck duck.c`
+
+## Installation
+[Download from releases](https://github.com/camfairchild/duck/releases/download/v1.0.0/duck) or build  
 Move to bin  
 `$ sudo mv ./duck /bin/duck`  
 Run!  
